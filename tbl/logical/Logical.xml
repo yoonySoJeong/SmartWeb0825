@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<LogicalDesign class="oracle.dbtools.crest.model.design.logical.LogicalDesign" name="Logical" id="956D78F1-AD72-4153-ADFE-BF736A1ECCE4" mainViewID="8A0A4FFE-F536-162E-2740-FEBEA8B59807">
+<createdBy>ITSC</createdBy>
+<createdTime>2021-11-29 10:33:06 UTC</createdTime>
+<ownerDesignName>tbl</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</LogicalDesign>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;NEARBY/src/main/webapp/WEB-INF/views/layout/layout.jsp&apos; to &apos;header.jsp&apos;" description="Rename resource &apos;layout.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/WEB-INF/views/layout/layout.jsp" name="header.jsp" stamp="1639989137789" updateReferences="true"/>
+</session>

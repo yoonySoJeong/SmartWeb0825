@@ -1,0 +1,16 @@
+1638922256051	Delete element
+1638922379142	Rename package 'com.koreait.ex08'
+1638922389344	Rename package 'com.koreait'
+1638922409606	Copy package
+1638922414636	Rename package 'com.koreait.ex08.controller'
+1638922428234	Rename package 'com.koreait.ex08.domain'
+1638922433451	Rename package 'com.koreait.ex08.repository'
+1638922437545	Rename package 'com.koreait.ex08.service'
+1638922449308	Delete element
+1638922454641	Delete element
+1638922461574	Rename package 'com.koreait.ex08.config'
+1638922682529	Rename package 'com.koreait.ex09.domain'
+1638922689154	Rename package 'com.koreait.ex09.repository'
+1638922816783	Rename type 'ContactRepository'
+1638924405504	Delete element
+1638926569266	Rename type 'ContactFindAllContact'

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper 
+PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+
+<mapper namespace="dao.employee">	<!-- package.filename -->
+
+	<!-- employee list -->
+	<select id="selectAllEmployee" resultType="dto.Employee">
+		SELECT eno, name, depart, salary, hire
+		  FROM employee
+		 ORDER BY eno ASC
+	</select>
+
+	<!-- get total count -->
+	<select id="getTotalCount" resultType="int">
+		SELECT COUNT(*)
+		  FROM employee
+	</select>
+
+	<!-- get salary average -->
+	<select id="getAverage" resultType="double">
+		SELECT NVL(AVG(salary), 0)
+		  FROM employee
+	</select>
+	
+	<!-- add employee -->
+	<insert id="insertEmployee" parameterType="dto.Employee">
+		INSERT INTO employee
+		VALUES (employee_seq.nextval, #{name}, #{depart}, #{salary}, TO_CHAR(SYSDATE, 'YYYY-MM-DD'))
+	</insert>
+
+	<!-- get employee detail -->
+	<select id="selectOneEmployee" parameterType="Long" resultType="dto.Employee">
+		SELECT eno, name, depart, salary, hire
+		  FROM employee
+		 WHERE eno = #{eno}
+	</select>
+	
+	<!-- update employee detail -->
+	<update id="updateEmployee" parameterType="dto.Employee">
+		UPDATE employee
+		   SET name = #{name}, depart = #{depart}, salary = #{salary}
+		 WHERE eno = #{eno}
+	</update>
+
+</mapper>

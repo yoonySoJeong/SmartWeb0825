@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper 
+PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+
+<mapper namespace="dao.board">	<!-- package.filename -->
+
+	<select id="selectBoardList" resultType="dto.BoardDTO">
+		SELECT no, author, title, content, hit, ip, postdate
+	      FROM board
+	</select>
+
+	<select id="selectBoardView" parameterType="Long" resultType="dto.BoardDTO">
+		SELECT no, author, title, content, hit, ip, postdate
+	      FROM board
+	     WHERE no = #{no}
+	</select>
+
+	<!-- hit ++ :: 번호(no)가 일치하는 게시글의 hit를 늘려라 -->
+	<update id="updateBoardHit" parameterType="Long">
+		UPDATE board
+		   SET HIT = HIT + 1
+		 WHERE no = #{no}
+	</update>
+
+	<!-- insert reply -->
+	<insert id="insertReply" parameterType="dto.ReplyDTO">
+		INSERT INTO	REPLY
+		VALUES (REPLY_SEQ.NEXTVAL, #{author}, #{content}, #{ip}, #{board_no}, SYSDATE)
+	</insert>
+
+	<!-- select reply list -->
+	<select id="selectReplyList" parameterType="Long" resultType="dto.ReplyDTO">
+		SELECT no, author, content, ip, board_no, postdate
+		  FROM reply
+		 WHERE board_no = #{no}
+	</select>
+
+	<!-- insert board -->
+	<insert id="insertBoard" parameterType="dto.BoardDTO">
+		INSERT INTO	board
+		VALUES (board_SEQ.NEXTVAL, #{author}, #{title}, #{content}, 0, #{ip}, SYSDATE)
+	</insert>
+	
+	<!-- max hit -->
+	<select id="selectMaxHit" resultType="dto.BoardDTO">
+		SELECT no, author, title, content, hit, ip, postdate
+		  FROM board
+		 WHERE hit = (SELECT MAX(hit)
+		 				FROM board)
+	</select>
+	
+	<!-- min hit -->
+	<select id="selectMinHit" resultType="dto.BoardDTO">
+		SELECT no, author, title, content, hit, ip, postdate
+		  FROM board
+		 WHERE hit = (SELECT MIN(hit)
+		 				FROM board)
+	</select>
+	
+	<!-- update board content -->
+	<update id="updateBoard" parameterType="dto.BoardDTO">
+		UPDATE board
+		   SET title = #{title}, content = #{content}
+		 WHERE no = #{no}
+	</update>
+	
+	<!-- delete board content -->
+	<delete id="deleteBoard" parameterType="Long">
+		DELETE
+		  FROM board
+		 WHERE no = #{no}
+	</delete>
+	
+</mapper>

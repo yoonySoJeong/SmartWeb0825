@@ -1,0 +1,792 @@
+
+12월 21, 2021 09:13:04.459 NEW SESSION
+12월 21, 2021 09:13:04.459 [9512:6304:1221/091304.456:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 21, 2021 09:13:04.459 [9512:6304:1221/091304.456:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 21, 2021 09:13:04.459 [9512:6304:1221/091304.456:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 21, 2021 09:13:04.459 [9512:6304:1221/091304.457:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 21, 2021 09:13:05.88 [9512:6388:1221/091305.088:ERROR:device_event_log_impl.cc(214)] [09:13:05.088] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12월 21, 2021 14:28:49.139 [9512:6388:1221/142849.139:ERROR:interface_endpoint_client.cc(658)] Message 1 rejected by interface blink.mojom.WidgetHost
+12월 21, 2021 14:28:49.139 [9512:6388:1221/142849.139:ERROR:interface_endpoint_client.cc(658)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+12월 22, 2021 19:25:08.374 NEW SESSION
+12월 22, 2021 19:25:08.374 [1932:3028:1222/192508.372:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 22, 2021 19:25:08.374 [1932:3028:1222/192508.372:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 22, 2021 19:25:08.374 [1932:3028:1222/192508.372:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 22, 2021 19:25:08.374 [1932:3028:1222/192508.373:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 22, 2021 19:25:08.381 [1932:8724:1222/192508.381:ERROR:device_event_log_impl.cc(214)] [19:25:08.380] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12월 22, 2021 21:42:39.462 [612:4032:1222/214239.462:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 22, 2021 21:42:39.463 [612:4032:1222/214239.462:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 22, 2021 21:42:39.463 [612:4032:1222/214239.462:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 22, 2021 21:42:39.463 [612:4032:1222/214239.463:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 22, 2021 21:42:39.469 [612:1400:1222/214239.469:ERROR:device_event_log_impl.cc(214)] [21:42:39.469] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+12월 23, 2021 09:14:26.48 NEW SESSION
+12월 23, 2021 09:14:26.48 [6460:1212:1223/091426.046:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 23, 2021 09:14:26.48 [6460:1212:1223/091426.046:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 23, 2021 09:14:26.48 [6460:1212:1223/091426.046:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 23, 2021 09:14:26.48 [6460:1212:1223/091426.047:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 23, 2021 09:14:26.54 [6460:604:1223/091426.054:ERROR:device_event_log_impl.cc(214)] [09:14:26.055] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12월 23, 2021 09:50:46.01 [6460:604:1223/095046.001:ERROR:interface_endpoint_client.cc(658)] Message 1 rejected by interface blink.mojom.WidgetHost
+12월 23, 2021 11:31:11.286 [6460:604:1223/113111.286:ERROR:interface_endpoint_client.cc(658)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+12월 23, 2021 18:14:41.37 NEW SESSION
+12월 23, 2021 18:14:41.37 [11908:9192:1223/181441.036:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 23, 2021 18:14:41.37 [11908:9192:1223/181441.036:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 23, 2021 18:14:41.38 [11908:9192:1223/181441.036:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 23, 2021 18:14:41.38 [11908:9192:1223/181441.037:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 23, 2021 18:14:41.47 [11908:9084:1223/181441.047:ERROR:device_event_log_impl.cc(214)] [18:14:41.047] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12월 23, 2021 18:16:29.104 [11052:7556:1223/181629.103:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 23, 2021 18:16:29.104 [11052:7556:1223/181629.103:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 23, 2021 18:16:29.104 [11052:7556:1223/181629.103:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 23, 2021 18:16:29.104 [11052:7556:1223/181629.104:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 23, 2021 18:16:29.113 [11052:10888:1223/181629.113:ERROR:device_event_log_impl.cc(214)] [18:16:29.112] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+12월 24, 2021 09:19:42.391 NEW SESSION
+12월 24, 2021 09:19:42.391 [776:1272:1224/091942.391:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 24, 2021 09:19:42.391 [776:1272:1224/091942.391:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 24, 2021 09:19:42.391 [776:1272:1224/091942.391:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 24, 2021 09:19:42.391 [776:1272:1224/091942.391:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 24, 2021 09:19:42.391 [776:6864:1224/091942.391:ERROR:device_event_log_impl.cc(214)] [09:19:42.394] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12월 24, 2021 09:20:15.598 [776:6864:1224/092015.598:ERROR:interface_endpoint_client.cc(658)] Message 1 rejected by interface blink.mojom.WidgetHost
+12월 24, 2021 09:26:44.191 [1268:8008:1224/092644.191:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 24, 2021 09:26:44.191 [1268:8008:1224/092644.191:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 24, 2021 09:26:44.192 [1268:8008:1224/092644.191:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 24, 2021 09:26:44.192 [1268:8008:1224/092644.192:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 24, 2021 09:26:44.200 [1268:9368:1224/092644.200:ERROR:device_event_log_impl.cc(214)] [09:26:44.200] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12월 24, 2021 09:28:17.573 [9064:1604:1224/092817.573:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 24, 2021 09:28:17.574 [9064:1604:1224/092817.573:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 24, 2021 09:28:17.574 [9064:1604:1224/092817.573:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 24, 2021 09:28:17.574 [9064:1604:1224/092817.574:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 24, 2021 09:28:17.581 [9064:4852:1224/092817.581:ERROR:device_event_log_impl.cc(214)] [09:28:17.581] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12월 24, 2021 09:29:03.609 [9064:4852:1224/092903.609:ERROR:interface_endpoint_client.cc(658)] Message 0 rejected by interface blink.mojom.WidgetHost
+12월 24, 2021 09:58:07.557 [9496:4436:1224/095807.557:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 24, 2021 09:58:07.557 [9496:4436:1224/095807.557:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 24, 2021 09:58:07.558 [9496:4436:1224/095807.557:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 24, 2021 09:58:07.558 [9496:4436:1224/095807.558:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 24, 2021 09:58:07.566 [9496:848:1224/095807.566:ERROR:device_event_log_impl.cc(214)] [09:58:07.566] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12월 24, 2021 10:38:15.512 [9496:848:1224/103815.512:ERROR:interface_endpoint_client.cc(658)] Message 0 rejected by interface blink.mojom.WidgetHost
+12월 24, 2021 11:07:16.604 [9496:848:1224/110716.604:ERROR:interface_endpoint_client.cc(658)] Message 1 rejected by interface blink.mojom.WidgetHost
+12월 24, 2021 11:43:09.444 [9496:848:1224/114309.444:ERROR:interface_endpoint_client.cc(658)] Message 1 rejected by interface blink.mojom.WidgetHost
+12월 24, 2021 11:48:52.691 [9496:848:1224/114852.691:ERROR:interface_endpoint_client.cc(658)] Message 1 rejected by interface blink.mojom.WidgetHost
+12월 24, 2021 12:35:50.359 [9496:848:1224/123550.359:ERROR:interface_endpoint_client.cc(658)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+12월 27, 2021 09:58:18.87 NEW SESSION
+12월 27, 2021 09:58:18.87 [8732:6380:1227/095818.085:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 27, 2021 09:58:18.87 [8732:6380:1227/095818.085:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 27, 2021 09:58:18.87 [8732:6380:1227/095818.085:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 27, 2021 09:58:18.87 [8732:6380:1227/095818.086:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 27, 2021 09:58:18.99 [8732:7472:1227/095818.099:ERROR:device_event_log_impl.cc(214)] [09:58:18.098] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+12월 27, 2021 10:04:04.649 NEW SESSION
+12월 27, 2021 10:04:04.649 [5184:8272:1227/100404.648:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 27, 2021 10:04:04.649 [5184:8272:1227/100404.648:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 27, 2021 10:04:04.649 [5184:8272:1227/100404.648:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 27, 2021 10:04:04.649 [5184:8272:1227/100404.649:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 27, 2021 10:04:04.658 [5184:7320:1227/100404.657:ERROR:device_event_log_impl.cc(214)] [10:04:04.658] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12월 27, 2021 11:09:08.289 [4840:5968:1227/110908.289:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 27, 2021 11:09:08.290 [4840:5968:1227/110908.289:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 27, 2021 11:09:08.290 [4840:5968:1227/110908.289:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 27, 2021 11:09:08.290 [4840:5968:1227/110908.290:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 27, 2021 11:09:08.299 [4840:8484:1227/110908.298:ERROR:device_event_log_impl.cc(214)] [11:09:08.299] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12월 27, 2021 11:17:51.272 [6580:2172:1227/111751.272:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 27, 2021 11:17:51.273 [6580:2172:1227/111751.272:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 27, 2021 11:17:51.273 [6580:2172:1227/111751.272:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 27, 2021 11:17:51.273 [6580:2172:1227/111751.273:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 27, 2021 11:17:51.281 [6580:3984:1227/111751.281:ERROR:device_event_log_impl.cc(214)] [11:17:51.282] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12월 27, 2021 11:21:35.938 [7700:9164:1227/112135.938:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 27, 2021 11:21:35.938 [7700:9164:1227/112135.938:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 27, 2021 11:21:35.938 [7700:9164:1227/112135.938:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 27, 2021 11:21:35.939 [7700:9164:1227/112135.939:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 27, 2021 11:21:35.947 [7700:2284:1227/112135.947:ERROR:device_event_log_impl.cc(214)] [11:21:35.947] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12월 27, 2021 11:25:45.305 [9812:3260:1227/112545.305:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 27, 2021 11:25:45.305 [9812:3260:1227/112545.305:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 27, 2021 11:25:45.305 [9812:3260:1227/112545.305:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 27, 2021 11:25:45.306 [9812:3260:1227/112545.306:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 27, 2021 11:25:45.314 [9812:5100:1227/112545.314:ERROR:device_event_log_impl.cc(214)] [11:25:45.315] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12월 27, 2021 11:36:57.212 [4804:7004:1227/113657.212:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 27, 2021 11:36:57.212 [4804:7004:1227/113657.212:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 27, 2021 11:36:57.212 [4804:7004:1227/113657.212:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 27, 2021 11:36:57.213 [4804:7004:1227/113657.213:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 27, 2021 11:36:57.220 [4804:9796:1227/113657.220:ERROR:device_event_log_impl.cc(214)] [11:36:57.220] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12월 27, 2021 12:14:46.745 [6508:8172:1227/121446.745:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 27, 2021 12:14:46.746 [6508:8172:1227/121446.745:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 27, 2021 12:14:46.746 [6508:8172:1227/121446.745:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 27, 2021 12:14:46.746 [6508:8172:1227/121446.746:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 27, 2021 12:14:46.756 [6508:8384:1227/121446.756:ERROR:device_event_log_impl.cc(214)] [12:14:46.756] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+12월 28, 2021 09:13:08.66 NEW SESSION
+12월 28, 2021 09:13:08.66 [8156:7780:1228/091308.064:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 28, 2021 09:13:08.66 [8156:7780:1228/091308.064:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 28, 2021 09:13:08.66 [8156:7780:1228/091308.064:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 28, 2021 09:13:08.66 [8156:7780:1228/091308.065:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 28, 2021 09:13:08.71 [8156:8152:1228/091308.071:ERROR:device_event_log_impl.cc(214)] [09:13:08.071] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12월 28, 2021 17:45:59.467 [8156:8152:1228/174559.467:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 28, 2021 17:45:59.468 [8156:8152:1228/174559.467:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+12월 28, 2021 17:46:03.787 [8156:8152:1228/174603.787:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 28, 2021 17:46:03.787 [8156:8152:1228/174603.787:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+12월 28, 2021 17:46:03.897 [8156:8152:1228/174603.896:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 28, 2021 17:46:03.897 [8156:8152:1228/174603.896:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+12월 28, 2021 17:46:04.44 [8156:8152:1228/174604.044:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 28, 2021 17:46:04.44 [8156:8152:1228/174604.044:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+12월 28, 2021 17:46:04.156 [8156:8152:1228/174604.156:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 28, 2021 17:46:04.156 [8156:8152:1228/174604.156:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+
+12월 29, 2021 09:14:52.486 NEW SESSION
+12월 29, 2021 09:14:52.486 [2472:7232:1229/091452.484:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 29, 2021 09:14:52.486 [2472:7232:1229/091452.484:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 29, 2021 09:14:52.487 [2472:7232:1229/091452.484:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 29, 2021 09:14:52.487 [2472:7232:1229/091452.485:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 29, 2021 09:14:52.492 [2472:7600:1229/091452.492:ERROR:device_event_log_impl.cc(214)] [09:14:52.492] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12월 29, 2021 10:52:24.215 [6788:7956:1229/105224.215:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 29, 2021 10:52:24.216 [6788:7956:1229/105224.215:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 29, 2021 10:52:24.216 [6788:7956:1229/105224.215:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 29, 2021 10:52:24.216 [6788:7956:1229/105224.216:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 29, 2021 10:52:24.220 [6788:9348:1229/105224.220:ERROR:device_event_log_impl.cc(214)] [10:52:24.219] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12월 29, 2021 12:30:40.878 [6788:9348:1229/123040.878:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 29, 2021 12:30:40.878 [6788:9348:1229/123040.878:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+12월 29, 2021 16:28:41.108 [6788:9348:1229/162841.108:ERROR:interface_endpoint_client.cc(658)] Message 0 rejected by interface blink.mojom.WidgetHost
+12월 29, 2021 17:04:12.10 [6788:9348:1229/170412.010:ERROR:interface_endpoint_client.cc(658)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+12월 30, 2021 09:06:59.801 NEW SESSION
+12월 30, 2021 09:06:59.802 [4596:9764:1230/090659.800:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 30, 2021 09:06:59.802 [4596:9764:1230/090659.800:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 30, 2021 09:06:59.802 [4596:9764:1230/090659.800:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 30, 2021 09:06:59.802 [4596:9764:1230/090659.801:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 30, 2021 09:06:59.807 [4596:5208:1230/090659.807:ERROR:device_event_log_impl.cc(214)] [09:06:59.808] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12월 30, 2021 10:15:08.944 [4596:5208:1230/101508.944:ERROR:CONSOLE(1)] "TypeError: Cannot read properties of undefined (reading 'indexOf') TypeError: Cannot read properties of undefined (reading 'indexOf')
+12월 30, 2021 10:15:08.945     at Nn.contentType (devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js:1:275827)
+12월 30, 2021 10:15:08.945     at new ve (devtools://devtools/bundled/devtools-frontend/front_end/models/bindings/bindings.js:1:60542)
+12월 30, 2021 10:15:08.945     at Le.resourceAdded (devtools://devtools/bundled/devtools-frontend/front_end/models/bindings/bindings.js:1:59714)
+12월 30, 2021 10:15:08.945     at qn.dispatchEventToListeners (devtools://devtools/bundled/devtools-frontend/front_end/core/common/common.js:1:18504)
+12월 30, 2021 10:15:08.945     at _n.addRequest (devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js:1:290251)
+12월 30, 2021 10:15:08.945     at qn.onRequestFinished (devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js:1:282203)
+12월 30, 2021 10:15:08.945     at te.dispatchEventToListeners (devtools://devtools/bundled/devtools-frontend/front_end/core/common/common.js:1:18504)
+12월 30, 2021 10:15:08.945     at le.finishNetworkRequest (devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js:1:105736)
+12월 30, 2021 10:15:08.945     at le.loadingFinished (devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js:1:100940)
+12월 30, 2021 10:15:08.945     at g.dispatch (devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js:1:7977)", source: devtools://devtools/bundled/devtools-frontend/front_end/core/host/host.js (1)
+12월 30, 2021 11:14:17.311 [4596:5208:1230/111417.310:ERROR:CONSOLE(1)] "One popover is already visible", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js (1)
+12월 30, 2021 11:39:19.627 [4596:5208:1230/113919.627:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 30, 2021 11:39:19.628 [4596:5208:1230/113919.628:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 30, 2021 11:39:23.625 [4596:5208:1230/113923.625:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 30, 2021 11:39:23.627 [4596:5208:1230/113923.626:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 30, 2021 11:42:54.633 [4596:5208:1230/114254.633:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 30, 2021 11:42:54.634 [4596:5208:1230/114254.634:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 30, 2021 11:43:59.732 [4596:5208:1230/114359.732:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 30, 2021 11:43:59.733 [4596:5208:1230/114359.733:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 30, 2021 11:44:45.110 [4596:5208:1230/114445.110:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 30, 2021 11:44:45.111 [4596:5208:1230/114445.111:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 30, 2021 11:47:52.670 [4596:5208:1230/114752.670:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 30, 2021 11:47:52.670 [4596:5208:1230/114752.670:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 30, 2021 11:53:19.148 [4596:5208:1230/115319.148:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 30, 2021 11:53:19.149 [4596:5208:1230/115319.149:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 30, 2021 11:54:13.714 [4596:5208:1230/115413.713:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 30, 2021 11:54:13.715 [4596:5208:1230/115413.715:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 30, 2021 12:18:51.508 [4596:5208:1230/121851.508:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 30, 2021 12:18:51.509 [4596:5208:1230/121851.509:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 30, 2021 12:21:42.492 [4596:5208:1230/122142.492:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 30, 2021 12:21:42.493 [4596:5208:1230/122142.493:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 30, 2021 12:22:39.184 [4596:5208:1230/122239.184:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 30, 2021 12:22:39.185 [4596:5208:1230/122239.184:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 30, 2021 12:27:07.346 [4596:5208:1230/122707.346:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 30, 2021 12:27:07.347 [4596:5208:1230/122707.347:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 30, 2021 12:27:56.459 [4596:5208:1230/122756.459:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 30, 2021 12:27:56.460 [4596:5208:1230/122756.460:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 30, 2021 12:32:25.634 [4596:5208:1230/123225.634:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 30, 2021 12:32:25.635 [4596:5208:1230/123225.634:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 30, 2021 12:33:59.259 [4596:5208:1230/123359.259:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 30, 2021 12:33:59.259 [4596:5208:1230/123359.259:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 30, 2021 12:43:18.200 [4596:5208:1230/124318.199:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 30, 2021 12:43:18.200 [4596:5208:1230/124318.200:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 30, 2021 12:50:04.557 [4596:5208:1230/125004.557:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 30, 2021 12:50:04.557 [4596:5208:1230/125004.557:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 30, 2021 12:50:34.875 [4596:5208:1230/125034.875:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 30, 2021 12:50:34.876 [4596:5208:1230/125034.876:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 30, 2021 14:02:18.781 [4596:5208:1230/140218.781:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 30, 2021 14:02:18.782 [4596:5208:1230/140218.782:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 30, 2021 14:05:41.803 [4596:5208:1230/140541.802:ERROR:CONSOLE(1)] "Cannot find context with specified id", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 30, 2021 14:05:45.38 [4596:5208:1230/140545.038:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 30, 2021 14:05:45.38 [4596:5208:1230/140545.038:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 30, 2021 14:05:45.38 [4596:5208:1230/140545.038:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 30, 2021 14:05:45.38 [4596:5208:1230/140545.038:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 30, 2021 14:05:45.38 [4596:5208:1230/140545.038:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 30, 2021 14:06:34.160 [4596:5208:1230/140634.160:ERROR:CONSOLE(1)] "Cannot find context with specified id", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 30, 2021 14:08:13.859 [4596:5208:1230/140813.859:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 30, 2021 14:08:13.859 [4596:5208:1230/140813.859:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 30, 2021 14:08:13.860 [4596:5208:1230/140813.859:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 30, 2021 14:08:13.860 [4596:5208:1230/140813.859:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 30, 2021 14:08:13.860 [4596:5208:1230/140813.859:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 30, 2021 14:11:02.659 [7620:8280:1230/141102.659:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 30, 2021 14:11:02.659 [7620:8280:1230/141102.659:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 30, 2021 14:11:02.660 [7620:8280:1230/141102.659:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 30, 2021 14:11:02.660 [7620:8280:1230/141102.660:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 30, 2021 14:11:02.664 [7620:7360:1230/141102.664:ERROR:device_event_log_impl.cc(214)] [14:11:02.664] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12월 30, 2021 14:12:02.112 [3392:7800:1230/141202.112:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 30, 2021 14:12:02.113 [3392:7800:1230/141202.112:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 30, 2021 14:12:02.113 [3392:7800:1230/141202.112:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 30, 2021 14:12:02.113 [3392:7800:1230/141202.113:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 30, 2021 14:12:02.116 [3392:5760:1230/141202.116:ERROR:device_event_log_impl.cc(214)] [14:12:02.116] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12월 30, 2021 14:13:39.917 [9568:2300:1230/141339.917:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 30, 2021 14:13:39.917 [9568:2300:1230/141339.917:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 30, 2021 14:13:39.917 [9568:2300:1230/141339.917:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 30, 2021 14:13:39.918 [9568:2300:1230/141339.918:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 30, 2021 14:13:39.922 [9568:6364:1230/141339.922:ERROR:device_event_log_impl.cc(214)] [14:13:39.921] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+12월 31, 2021 09:22:47.166 NEW SESSION
+12월 31, 2021 09:22:47.166 [7100:6456:1231/092247.165:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 31, 2021 09:22:47.167 [7100:6456:1231/092247.165:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 31, 2021 09:22:47.167 [7100:6456:1231/092247.165:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 31, 2021 09:22:47.167 [7100:6456:1231/092247.166:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 31, 2021 09:22:47.170 [7100:2504:1231/092247.170:ERROR:device_event_log_impl.cc(214)] [09:22:47.170] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12월 31, 2021 09:45:17.594 [7100:2504:1231/094517.594:ERROR:interface_endpoint_client.cc(658)] Message 1 rejected by interface blink.mojom.WidgetHost
+12월 31, 2021 12:06:15.643 [7100:2504:1231/120615.643:ERROR:interface_endpoint_client.cc(658)] Message 0 rejected by interface blink.mojom.WidgetHost
+12월 31, 2021 12:15:10.296 [7100:2504:1231/121510.296:ERROR:interface_endpoint_client.cc(658)] Message 0 rejected by interface blink.mojom.WidgetHost
+12월 31, 2021 14:10:59.274 [7100:2504:1231/141059.274:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 31, 2021 14:10:59.275 [7100:2504:1231/141059.275:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 14:11:09.740 [7100:2504:1231/141109.740:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 31, 2021 14:11:09.740 [7100:2504:1231/141109.740:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 14:11:51.143 [7100:2504:1231/141151.142:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 31, 2021 14:11:51.143 [7100:2504:1231/141151.143:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 14:51:57.154 [7100:2504:1231/145157.154:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 31, 2021 14:51:57.156 [7100:2504:1231/145157.156:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 14:52:09.88 [7100:2504:1231/145209.088:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 31, 2021 14:52:09.89 [7100:2504:1231/145209.089:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 14:53:37.483 [7100:2504:1231/145337.483:ERROR:interface_endpoint_client.cc(658)] Message 0 rejected by interface blink.mojom.WidgetHost
+12월 31, 2021 14:56:14.423 [7100:2504:1231/145614.423:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 31, 2021 14:56:14.424 [7100:2504:1231/145614.424:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 15:17:39.08 [7100:2504:1231/151739.008:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 31, 2021 15:17:39.09 [7100:2504:1231/151739.009:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 15:17:56.415 [7100:2504:1231/151756.415:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 31, 2021 15:17:56.416 [7100:2504:1231/151756.416:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 15:20:55.162 [7100:2504:1231/152055.162:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 15:20:55.163 [7100:2504:1231/152055.162:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 15:20:55.163 [7100:2504:1231/152055.162:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 15:20:55.163 [7100:2504:1231/152055.162:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 15:20:55.163 [7100:2504:1231/152055.162:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 15:22:20.936 [7100:2504:1231/152220.936:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 31, 2021 15:22:20.936 [7100:2504:1231/152220.936:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 15:23:48.320 [7100:2504:1231/152348.319:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 31, 2021 15:23:48.321 [7100:2504:1231/152348.321:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 15:25:36.716 [7100:2504:1231/152536.715:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 31, 2021 15:25:36.717 [7100:2504:1231/152536.717:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 15:26:50.864 [7100:2504:1231/152650.864:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 31, 2021 15:26:50.866 [7100:2504:1231/152650.866:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 15:27:27.67 [7100:2504:1231/152727.066:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 31, 2021 15:27:27.68 [7100:2504:1231/152727.068:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 15:46:04.168 [7100:2504:1231/154604.168:ERROR:CONSOLE(1)] "Cannot find context with specified id", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 15:46:04.997 [7100:2504:1231/154604.997:ERROR:CONSOLE(1)] "Cannot find context with specified id", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 15:46:57.741 [7100:2504:1231/154657.741:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 15:46:57.741 [7100:2504:1231/154657.741:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 15:46:57.741 [7100:2504:1231/154657.741:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 15:46:57.741 [7100:2504:1231/154657.741:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 15:46:57.741 [7100:2504:1231/154657.741:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 15:46:57.755 [7100:2504:1231/154657.755:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 31, 2021 15:46:57.755 [7100:2504:1231/154657.755:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 16:08:42.668 [7100:2504:1231/160842.668:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 16:08:42.668 [7100:2504:1231/160842.668:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 16:08:42.668 [7100:2504:1231/160842.668:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 16:08:42.668 [7100:2504:1231/160842.668:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 16:08:42.669 [7100:2504:1231/160842.668:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 16:11:15.81 [7100:2504:1231/161115.081:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 31, 2021 16:11:15.82 [7100:2504:1231/161115.082:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 16:15:15.802 [7100:2504:1231/161515.802:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 31, 2021 16:15:15.803 [7100:2504:1231/161515.803:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 16:17:06.991 [7100:2504:1231/161706.990:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 31, 2021 16:17:06.992 [7100:2504:1231/161706.992:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 16:18:14.733 [7100:2504:1231/161814.733:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 31, 2021 16:18:14.733 [7100:2504:1231/161814.733:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 16:21:17.641 [7100:2504:1231/162117.641:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 16:21:17.641 [7100:2504:1231/162117.641:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 16:21:17.641 [7100:2504:1231/162117.641:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 16:21:17.642 [7100:2504:1231/162117.641:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 16:21:17.642 [7100:2504:1231/162117.641:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 16:21:31.390 [7100:2504:1231/162131.389:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 31, 2021 16:21:31.391 [7100:2504:1231/162131.391:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 16:24:20.674 [7100:2504:1231/162420.674:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 31, 2021 16:24:20.674 [7100:2504:1231/162420.674:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 16:24:42.315 [7100:2504:1231/162442.315:ERROR:interface_endpoint_client.cc(658)] Message 0 rejected by interface blink.mojom.WidgetHost
+12월 31, 2021 16:26:40.84 [7100:2504:1231/162640.083:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 31, 2021 16:26:40.85 [7100:2504:1231/162640.085:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 16:26:45.935 [7100:2504:1231/162645.935:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 31, 2021 16:26:45.936 [7100:2504:1231/162645.936:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 16:27:00.838 [7100:2504:1231/162700.837:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 31, 2021 16:27:00.839 [7100:2504:1231/162700.839:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 16:40:58.234 [7100:2504:1231/164058.234:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 31, 2021 16:40:58.235 [7100:2504:1231/164058.235:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 16:43:48.29 [7100:2504:1231/164348.029:ERROR:CONSOLE(1)] "Cannot find context with specified id", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 16:44:46.445 [7100:2504:1231/164446.445:ERROR:CONSOLE(1)] "Cannot find context with specified id", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 16:45:06.547 [7100:2504:1231/164506.546:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 16:45:06.547 [7100:2504:1231/164506.546:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 16:45:06.547 [7100:2504:1231/164506.547:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 16:45:06.547 [7100:2504:1231/164506.547:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 16:45:06.547 [7100:2504:1231/164506.547:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 16:45:41.510 [7100:2504:1231/164541.510:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 16:45:41.510 [7100:2504:1231/164541.510:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 16:45:41.510 [7100:2504:1231/164541.510:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 16:45:41.510 [7100:2504:1231/164541.510:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 16:45:41.510 [7100:2504:1231/164541.510:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 16:47:24.870 [7100:2504:1231/164724.870:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 31, 2021 16:47:24.872 [7100:2504:1231/164724.871:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 16:49:05.625 [7100:2504:1231/164905.625:ERROR:CONSOLE(1)] "Cannot find context with specified id", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 17:12:28.662 [7100:2504:1231/171228.662:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 17:12:28.662 [7100:2504:1231/171228.662:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 17:12:28.662 [7100:2504:1231/171228.662:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 17:12:28.662 [7100:2504:1231/171228.662:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 17:12:28.662 [7100:2504:1231/171228.662:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 17:25:13.868 [7100:2504:1231/172513.868:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 17:25:13.868 [7100:2504:1231/172513.868:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 17:25:13.868 [7100:2504:1231/172513.868:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 17:25:13.869 [7100:2504:1231/172513.868:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 17:25:13.869 [7100:2504:1231/172513.868:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 17:25:13.882 [7100:2504:1231/172513.882:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 31, 2021 17:25:13.882 [7100:2504:1231/172513.882:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 17:25:22.263 [7100:2504:1231/172522.263:ERROR:CONSOLE(1)] "Cannot find context with specified id", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 17:27:49.361 [1231/172749.361:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\ITSC\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\f49d1eac-9205-423b-960f-97b8f48bda4c: 지정된 경로를 찾을 수 없습니다. (0x3)
+12월 31, 2021 17:28:02.206 [7100:2504:1231/172802.206:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 31, 2021 17:28:02.208 [7100:2504:1231/172802.208:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+12월 31, 2021 17:28:14.823 [7100:2504:1231/172814.822:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+12월 31, 2021 17:28:14.824 [7100:2504:1231/172814.824:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+
+1월 03, 2022 09:21:40.539 NEW SESSION
+1월 03, 2022 09:21:40.539 [7012:4260:0103/092140.537:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+1월 03, 2022 09:21:40.539 [7012:4260:0103/092140.537:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+1월 03, 2022 09:21:40.539 [7012:4260:0103/092140.537:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+1월 03, 2022 09:21:40.539 [7012:4260:0103/092140.538:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+1월 03, 2022 09:21:40.544 [7012:8104:0103/092140.544:ERROR:device_event_log_impl.cc(214)] [09:21:40.544] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+1월 03, 2022 10:16:33.877 [7452:6508:0103/101633.877:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+1월 03, 2022 10:16:33.877 [7452:6508:0103/101633.877:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+1월 03, 2022 10:16:33.878 [7452:6508:0103/101633.877:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+1월 03, 2022 10:16:33.878 [7452:6508:0103/101633.878:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+1월 03, 2022 10:16:33.881 [7452:6140:0103/101633.881:ERROR:device_event_log_impl.cc(214)] [10:16:33.880] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+1월 03, 2022 11:18:21.23 [7452:6140:0103/111821.023:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 03, 2022 11:18:21.24 [7452:6140:0103/111821.024:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 03, 2022 12:16:49.935 [7452:6140:0103/121649.935:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 03, 2022 12:16:49.937 [7452:6140:0103/121649.937:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 03, 2022 12:17:03.339 [7452:6140:0103/121703.339:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 03, 2022 12:17:03.340 [7452:6140:0103/121703.340:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 03, 2022 12:19:21.621 [7452:6140:0103/121921.621:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 03, 2022 12:19:21.623 [7452:6140:0103/121921.623:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 03, 2022 12:20:22.842 [7452:6140:0103/122022.842:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 03, 2022 12:20:22.843 [7452:6140:0103/122022.843:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 03, 2022 12:21:09.84 [7452:6140:0103/122109.084:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 03, 2022 12:21:09.86 [7452:6140:0103/122109.086:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 03, 2022 12:21:10.141 [7452:6140:0103/122110.141:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 03, 2022 12:21:10.141 [7452:6140:0103/122110.141:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 03, 2022 12:22:36.680 [7452:6140:0103/122236.680:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 03, 2022 12:22:36.681 [7452:6140:0103/122236.681:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 03, 2022 12:34:03.642 [7452:6140:0103/123403.642:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 03, 2022 12:34:03.642 [7452:6140:0103/123403.642:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 03, 2022 12:34:04.697 [7452:6140:0103/123404.697:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 03, 2022 12:34:04.697 [7452:6140:0103/123404.697:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 03, 2022 12:43:54.566 [7452:6140:0103/124354.566:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 03, 2022 12:43:54.567 [7452:6140:0103/124354.567:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 03, 2022 12:47:34.165 [7452:8784:0103/124734.165:ERROR:database.cc(1773)] History SQLite error: code 1555 errno 0: UNIQUE constraint failed: context_annotations.visit_id sql: INSERT INTO context_annotations( visit_id,context_annotation_flags,duration_since_last_visit,page_end_reason,total_foreground_duration )VALUES(?,?,?,?,?)
+1월 03, 2022 12:50:02.866 [4660:8296:0103/125002.866:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+1월 03, 2022 12:50:02.867 [4660:8296:0103/125002.866:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+1월 03, 2022 12:50:02.867 [4660:8296:0103/125002.866:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+1월 03, 2022 12:50:02.867 [4660:8296:0103/125002.867:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+1월 03, 2022 12:50:02.871 [4660:1632:0103/125002.870:ERROR:device_event_log_impl.cc(214)] [12:50:02.871] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+1월 03, 2022 12:55:51.342 [4660:1632:0103/125551.341:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 03, 2022 12:55:51.342 [4660:1632:0103/125551.342:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 03, 2022 13:53:54.741 [10152:9432:0103/135354.740:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+1월 03, 2022 13:53:54.741 [10152:9432:0103/135354.740:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+1월 03, 2022 13:53:54.741 [10152:9432:0103/135354.740:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+1월 03, 2022 13:53:54.741 [10152:9432:0103/135354.741:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+1월 03, 2022 13:53:54.745 [10152:8812:0103/135354.745:ERROR:device_event_log_impl.cc(214)] [13:53:54.744] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+1월 03, 2022 14:00:07.241 [1160:4948:0103/140007.241:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+1월 03, 2022 14:00:07.241 [1160:4948:0103/140007.241:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+1월 03, 2022 14:00:07.241 [1160:4948:0103/140007.241:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+1월 03, 2022 14:00:07.242 [1160:4948:0103/140007.242:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+1월 03, 2022 14:00:07.246 [1160:4428:0103/140007.246:ERROR:device_event_log_impl.cc(214)] [14:00:07.246] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+1월 03, 2022 14:11:49.98 [1184:3568:0103/141149.098:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+1월 03, 2022 14:11:49.98 [1184:3568:0103/141149.098:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+1월 03, 2022 14:11:49.98 [1184:3568:0103/141149.098:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+1월 03, 2022 14:11:49.99 [1184:3568:0103/141149.099:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+1월 03, 2022 14:11:49.103 [1184:6152:0103/141149.102:ERROR:device_event_log_impl.cc(214)] [14:11:49.102] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+1월 03, 2022 14:27:30.386 [1184:6152:0103/142730.386:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 03, 2022 14:27:30.388 [1184:6152:0103/142730.388:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 03, 2022 14:35:44.552 [1184:6152:0103/143544.552:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 03, 2022 14:35:44.553 [1184:6152:0103/143544.552:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+
+1월 03, 2022 18:10:02.961 NEW SESSION
+1월 03, 2022 18:10:02.961 [9700:9144:0103/181002.960:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+1월 03, 2022 18:10:02.962 [9700:9144:0103/181002.960:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+1월 03, 2022 18:10:02.962 [9700:9144:0103/181002.960:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+1월 03, 2022 18:10:02.962 [9700:9144:0103/181002.961:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+1월 03, 2022 18:10:02.965 [9700:6400:0103/181002.964:ERROR:device_event_log_impl.cc(214)] [18:10:02.964] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+1월 04, 2022 09:07:07.796 NEW SESSION
+1월 04, 2022 09:07:07.796 [1160:1408:0104/090707.794:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+1월 04, 2022 09:07:07.796 [1160:1408:0104/090707.794:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+1월 04, 2022 09:07:07.796 [1160:1408:0104/090707.794:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+1월 04, 2022 09:07:07.796 [1160:1408:0104/090707.795:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+1월 04, 2022 09:07:07.802 [1160:3060:0104/090707.801:ERROR:device_event_log_impl.cc(214)] [09:07:07.801] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+1월 04, 2022 09:27:42.762 [2776:6580:0104/092742.762:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+1월 04, 2022 09:27:42.762 [2776:6580:0104/092742.762:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+1월 04, 2022 09:27:42.763 [2776:6580:0104/092742.762:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+1월 04, 2022 09:27:42.763 [2776:6580:0104/092742.763:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+1월 04, 2022 09:27:42.766 [2776:6328:0104/092742.766:ERROR:device_event_log_impl.cc(214)] [09:27:42.765] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+1월 04, 2022 11:10:27.182 [2776:6328:0104/111027.182:ERROR:CONSOLE(1)] "Cannot find context with specified id", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 11:17:49.735 [2776:6328:0104/111749.735:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 04, 2022 11:17:49.736 [2776:6328:0104/111749.736:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 12:17:01.31 [6552:4252:0104/121701.030:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+1월 04, 2022 12:17:01.31 [6552:4252:0104/121701.030:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+1월 04, 2022 12:17:01.31 [6552:4252:0104/121701.030:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+1월 04, 2022 12:17:01.31 [6552:4252:0104/121701.031:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+1월 04, 2022 12:17:01.34 [6552:9712:0104/121701.034:ERROR:device_event_log_impl.cc(214)] [12:17:01.034] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+1월 04, 2022 12:20:24.15 [6552:9712:0104/122024.015:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 04, 2022 12:20:24.15 [6552:9712:0104/122024.015:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 14:19:46.242 [7904:10004:0104/141946.241:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+1월 04, 2022 14:19:46.242 [7904:10004:0104/141946.241:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+1월 04, 2022 14:19:46.242 [7904:10004:0104/141946.241:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+1월 04, 2022 14:19:46.242 [7904:10004:0104/141946.242:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+1월 04, 2022 14:19:46.245 [7904:5820:0104/141946.245:ERROR:device_event_log_impl.cc(214)] [14:19:46.246] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+1월 04, 2022 14:34:14.842 [6100:3880:0104/143414.841:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+1월 04, 2022 14:34:14.842 [6100:3880:0104/143414.841:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+1월 04, 2022 14:34:14.842 [6100:3880:0104/143414.841:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+1월 04, 2022 14:34:14.842 [6100:3880:0104/143414.842:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+1월 04, 2022 14:34:14.845 [6100:9880:0104/143414.845:ERROR:device_event_log_impl.cc(214)] [14:34:14.845] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+1월 04, 2022 14:44:43.424 [6100:9880:0104/144443.424:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 04, 2022 14:44:43.425 [6100:9880:0104/144443.424:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 14:46:47.795 [6100:9880:0104/144647.795:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 04, 2022 14:46:47.796 [6100:9880:0104/144647.796:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 14:51:40.393 [7324:1528:0104/145140.393:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+1월 04, 2022 14:51:40.393 [7324:1528:0104/145140.393:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+1월 04, 2022 14:51:40.394 [7324:1528:0104/145140.393:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+1월 04, 2022 14:51:40.394 [7324:1528:0104/145140.394:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+1월 04, 2022 14:51:40.397 [7324:2784:0104/145140.397:ERROR:device_event_log_impl.cc(214)] [14:51:40.397] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+1월 04, 2022 14:54:12.717 [7324:2784:0104/145412.717:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 04, 2022 14:54:12.717 [7324:2784:0104/145412.717:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 14:54:36.462 [7324:2784:0104/145436.462:ERROR:CONSOLE(1)] "Cannot find context with specified id", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:04:21.338 [5032:7924:0104/150421.338:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+1월 04, 2022 15:04:21.339 [5032:7924:0104/150421.338:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+1월 04, 2022 15:04:21.339 [5032:7924:0104/150421.338:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+1월 04, 2022 15:04:21.339 [5032:7924:0104/150421.339:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+1월 04, 2022 15:04:21.343 [5032:9768:0104/150421.343:ERROR:device_event_log_impl.cc(214)] [15:04:21.343] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+1월 04, 2022 15:06:28.696 [5032:9768:0104/150628.695:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:06:28.696 [5032:9768:0104/150628.696:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:06:28.696 [5032:9768:0104/150628.696:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:06:28.696 [5032:9768:0104/150628.696:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:06:28.696 [5032:9768:0104/150628.696:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:06:28.696 [5032:9768:0104/150628.696:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:06:28.696 [5032:9768:0104/150628.696:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:06:28.696 [5032:9768:0104/150628.696:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:08:23.281 [5032:9768:0104/150823.281:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 04, 2022 15:08:23.281 [5032:9768:0104/150823.281:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:20:07.767 [5032:9768:0104/152007.766:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:20:07.767 [5032:9768:0104/152007.766:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 15:21:10.871 [5032:9768:0104/152110.871:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:21:10.871 [5032:9768:0104/152110.871:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:21:10.871 [5032:9768:0104/152110.871:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:21:10.872 [5032:9768:0104/152110.871:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:21:10.872 [5032:9768:0104/152110.871:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:21:10.872 [5032:9768:0104/152110.871:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:21:10.872 [5032:9768:0104/152110.871:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:21:10.872 [5032:9768:0104/152110.871:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:21:36.433 [5032:9768:0104/152136.432:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 04, 2022 15:21:36.434 [5032:9768:0104/152136.434:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:31:10.128 [5032:9768:0104/153110.128:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 04, 2022 15:31:10.131 [5032:9768:0104/153110.131:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:35:09.258 [5032:9768:0104/153509.257:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 04, 2022 15:35:09.260 [5032:9768:0104/153509.260:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:35:57.906 [5032:9768:0104/153557.906:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 04, 2022 15:35:57.907 [5032:9768:0104/153557.907:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:39:23.258 [5032:9768:0104/153923.258:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:44:43.643 [5032:9768:0104/154443.642:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:44:43.643 [5032:9768:0104/154443.642:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:44:43.643 [5032:9768:0104/154443.642:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:44:43.643 [5032:9768:0104/154443.643:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:44:43.643 [5032:9768:0104/154443.643:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:44:43.643 [5032:9768:0104/154443.643:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:44:43.643 [5032:9768:0104/154443.643:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:44:43.643 [5032:9768:0104/154443.643:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:44:43.656 [5032:9768:0104/154443.655:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 04, 2022 15:44:43.656 [5032:9768:0104/154443.655:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:46:57.825 [5032:9768:0104/154657.825:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 04, 2022 15:46:57.826 [5032:9768:0104/154657.825:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:50:02.301 [5032:9768:0104/155002.301:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 04, 2022 15:50:02.302 [5032:9768:0104/155002.301:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:59:21.58 [5032:9768:0104/155921.058:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:59:21.59 [5032:9768:0104/155921.058:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:59:21.59 [5032:9768:0104/155921.059:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:59:21.59 [5032:9768:0104/155921.059:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:59:21.59 [5032:9768:0104/155921.059:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:59:21.59 [5032:9768:0104/155921.059:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:59:21.59 [5032:9768:0104/155921.059:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:59:21.59 [5032:9768:0104/155921.059:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 15:59:21.79 [5032:9768:0104/155921.078:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 04, 2022 15:59:21.79 [5032:9768:0104/155921.079:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:30:37.405 [5032:9768:0104/163037.405:ERROR:CONSOLE(1)] "Cannot find context with specified id", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:31:18.550 [5032:9768:0104/163118.550:ERROR:CONSOLE(1)] "Cannot find context with specified id", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:31:49.774 [5032:9768:0104/163149.774:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:31:49.775 [5032:9768:0104/163149.774:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:31:52.934 [5032:9768:0104/163152.933:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:31:52.934 [5032:9768:0104/163152.933:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:31:53.91 [5032:9768:0104/163153.091:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:31:53.91 [5032:9768:0104/163153.091:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:31:53.238 [5032:9768:0104/163153.238:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:31:53.238 [5032:9768:0104/163153.238:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:31:53.361 [5032:9768:0104/163153.361:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:31:53.361 [5032:9768:0104/163153.361:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:31:53.466 [5032:9768:0104/163153.465:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:31:53.466 [5032:9768:0104/163153.465:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:31:53.618 [5032:9768:0104/163153.618:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:31:53.618 [5032:9768:0104/163153.618:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:31:53.765 [5032:9768:0104/163153.765:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:31:53.765 [5032:9768:0104/163153.765:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:31:53.876 [5032:9768:0104/163153.876:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:31:53.876 [5032:9768:0104/163153.876:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:31:54.136 [5032:9768:0104/163154.136:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:31:54.136 [5032:9768:0104/163154.136:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:31:54.261 [5032:9768:0104/163154.261:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:31:54.261 [5032:9768:0104/163154.261:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:31:54.392 [5032:9768:0104/163154.392:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:31:54.392 [5032:9768:0104/163154.392:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:31:54.536 [5032:9768:0104/163154.536:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:31:54.537 [5032:9768:0104/163154.536:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:31:54.679 [5032:9768:0104/163154.679:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:31:54.679 [5032:9768:0104/163154.679:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:31:54.826 [5032:9768:0104/163154.826:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:31:54.827 [5032:9768:0104/163154.826:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:31:54.958 [5032:9768:0104/163154.958:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:31:54.959 [5032:9768:0104/163154.958:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:31:55.90 [5032:9768:0104/163155.090:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:31:55.90 [5032:9768:0104/163155.090:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:31:55.227 [5032:9768:0104/163155.227:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:31:55.227 [5032:9768:0104/163155.227:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:31:55.334 [5032:9768:0104/163155.334:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:31:55.334 [5032:9768:0104/163155.334:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:31:55.463 [5032:9768:0104/163155.463:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:31:55.464 [5032:9768:0104/163155.463:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:31:55.654 [5032:9768:0104/163155.654:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:31:55.654 [5032:9768:0104/163155.654:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:31:55.765 [5032:9768:0104/163155.765:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:31:55.765 [5032:9768:0104/163155.765:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:32:03.77 [5032:9768:0104/163203.077:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:32:03.77 [5032:9768:0104/163203.077:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:32:03.224 [5032:9768:0104/163203.224:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:32:03.224 [5032:9768:0104/163203.224:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:32:03.332 [5032:9768:0104/163203.332:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:32:03.332 [5032:9768:0104/163203.332:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:32:03.535 [5032:9768:0104/163203.535:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:32:03.535 [5032:9768:0104/163203.535:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:32:03.686 [5032:9768:0104/163203.686:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:32:03.686 [5032:9768:0104/163203.686:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:32:03.904 [5032:9768:0104/163203.904:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:32:03.904 [5032:9768:0104/163203.904:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:32:04.37 [5032:9768:0104/163204.036:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:32:04.37 [5032:9768:0104/163204.036:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:32:04.150 [5032:9768:0104/163204.150:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:32:04.150 [5032:9768:0104/163204.150:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:32:04.299 [5032:9768:0104/163204.299:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:32:04.299 [5032:9768:0104/163204.299:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:32:04.403 [5032:9768:0104/163204.402:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:32:04.403 [5032:9768:0104/163204.402:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:32:04.532 [5032:9768:0104/163204.532:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:32:04.532 [5032:9768:0104/163204.532:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:32:05.272 [5032:9768:0104/163205.272:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:32:05.272 [5032:9768:0104/163205.272:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:32:05.440 [5032:9768:0104/163205.440:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:32:05.440 [5032:9768:0104/163205.440:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:32:05.549 [5032:9768:0104/163205.549:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:32:05.549 [5032:9768:0104/163205.549:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:32:11.637 [5032:9768:0104/163211.637:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:32:11.637 [5032:9768:0104/163211.637:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:32:12.572 [5032:9768:0104/163212.571:ERROR:CONSOLE(1)] "Cannot find context with specified id", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:34:03.418 [5032:9768:0104/163403.417:ERROR:CONSOLE(1)] "Cannot find context with specified id", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:34:03.556 [5032:9768:0104/163403.556:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:34:03.556 [5032:9768:0104/163403.556:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:34:05.201 [5032:9768:0104/163405.201:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:34:05.202 [5032:9768:0104/163405.201:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:34:05.849 [5032:9768:0104/163405.849:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:34:05.853 [5032:9768:0104/163405.852:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:34:05.958 [5032:9768:0104/163405.958:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:34:05.959 [5032:9768:0104/163405.958:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:34:06.89 [5032:9768:0104/163406.089:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:34:06.89 [5032:9768:0104/163406.089:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:34:06.289 [5032:9768:0104/163406.288:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:34:06.289 [5032:9768:0104/163406.289:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:34:12.942 [5032:9768:0104/163412.942:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:34:12.942 [5032:9768:0104/163412.942:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:34:13.66 [5032:9768:0104/163413.065:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:34:13.66 [5032:9768:0104/163413.065:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:34:13.162 [5032:9768:0104/163413.162:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:34:13.162 [5032:9768:0104/163413.162:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:34:13.312 [5032:9768:0104/163413.312:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:34:13.312 [5032:9768:0104/163413.312:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:34:13.446 [5032:9768:0104/163413.446:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:34:13.447 [5032:9768:0104/163413.446:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:34:13.652 [5032:9768:0104/163413.652:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:34:13.652 [5032:9768:0104/163413.652:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:35:01.995 [5032:9768:0104/163501.994:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:35:01.995 [5032:9768:0104/163501.994:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:35:01.995 [5032:9768:0104/163501.994:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:35:01.995 [5032:9768:0104/163501.995:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:35:01.995 [5032:9768:0104/163501.995:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:35:01.995 [5032:9768:0104/163501.995:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:35:01.995 [5032:9768:0104/163501.995:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:35:01.995 [5032:9768:0104/163501.995:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:35:02.09 [5032:9768:0104/163502.009:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 04, 2022 16:35:02.10 [5032:9768:0104/163502.009:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:35:08.968 [5032:9768:0104/163508.968:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:35:08.968 [5032:9768:0104/163508.968:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:35:09.639 [5032:9768:0104/163509.639:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:35:09.639 [5032:9768:0104/163509.639:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:35:09.639 [5032:9768:0104/163509.639:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:35:09.639 [5032:9768:0104/163509.639:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:35:09.639 [5032:9768:0104/163509.639:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:35:09.639 [5032:9768:0104/163509.639:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:35:09.640 [5032:9768:0104/163509.639:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:35:09.640 [5032:9768:0104/163509.639:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:35:20.35 [5032:9768:0104/163520.035:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:35:20.35 [5032:9768:0104/163520.035:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:35:22.710 [5032:9768:0104/163522.710:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:35:22.710 [5032:9768:0104/163522.710:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:35:29.806 [5032:9768:0104/163529.806:ERROR:CONSOLE(1)] "Cannot find context with specified id", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:35:43.324 [5032:9768:0104/163543.324:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 04, 2022 16:35:43.324 [5032:9768:0104/163543.324:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+1월 04, 2022 16:38:45.493 [5404:6580:0104/163845.493:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+1월 04, 2022 16:38:45.494 [5404:6580:0104/163845.493:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+1월 04, 2022 16:38:45.494 [5404:6580:0104/163845.493:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+1월 04, 2022 16:38:45.494 [5404:6580:0104/163845.494:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+1월 04, 2022 16:38:45.498 [5404:7220:0104/163845.498:ERROR:device_event_log_impl.cc(214)] [16:38:45.498] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+1월 04, 2022 16:42:05.237 [5072:3644:0104/164205.237:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+1월 04, 2022 16:42:05.237 [5072:3644:0104/164205.237:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+1월 04, 2022 16:42:05.237 [5072:3644:0104/164205.237:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+1월 04, 2022 16:42:05.238 [5072:3644:0104/164205.238:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+1월 04, 2022 16:42:05.241 [5072:9312:0104/164205.241:ERROR:device_event_log_impl.cc(214)] [16:42:05.241] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+1월 04, 2022 20:12:09.364 NEW SESSION
+1월 04, 2022 20:12:09.364 [7360:4980:0104/201209.363:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+1월 04, 2022 20:12:09.365 [7360:4980:0104/201209.363:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+1월 04, 2022 20:12:09.365 [7360:4980:0104/201209.363:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+1월 04, 2022 20:12:09.365 [7360:4980:0104/201209.364:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+1월 04, 2022 20:12:09.369 [7360:4260:0104/201209.369:ERROR:device_event_log_impl.cc(214)] [20:12:09.369] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+1월 05, 2022 16:09:45.378 NEW SESSION
+1월 05, 2022 16:09:45.378 [7328:8296:0105/160945.378:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+1월 05, 2022 16:09:45.378 [7328:8296:0105/160945.378:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+1월 05, 2022 16:09:45.378 [7328:8296:0105/160945.378:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+1월 05, 2022 16:09:45.378 [7328:8296:0105/160945.378:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+1월 05, 2022 16:09:45.378 [7328:6780:0105/160945.378:ERROR:device_event_log_impl.cc(214)] [16:09:45.382] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+1월 06, 2022 09:10:24.518 NEW SESSION
+1월 06, 2022 09:10:24.518 [5672:10052:0106/091024.516:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+1월 06, 2022 09:10:24.518 [5672:10052:0106/091024.516:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+1월 06, 2022 09:10:24.518 [5672:10052:0106/091024.516:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+1월 06, 2022 09:10:24.518 [5672:10052:0106/091024.517:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+1월 06, 2022 09:10:24.539 [5672:3956:0106/091024.539:ERROR:device_event_log_impl.cc(214)] [09:10:24.538] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+1월 06, 2022 09:30:03.34 [2164:1632:0106/093003.034:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+1월 06, 2022 09:30:03.35 [2164:1632:0106/093003.034:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+1월 06, 2022 09:30:03.35 [2164:1632:0106/093003.034:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+1월 06, 2022 09:30:03.35 [2164:1632:0106/093003.035:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+1월 06, 2022 09:30:03.38 [2164:8528:0106/093003.038:ERROR:device_event_log_impl.cc(214)] [09:30:03.038] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+1월 06, 2022 09:42:47.746 [2164:8528:0106/094247.746:ERROR:sharing_service.cc(252)] Device un-registration failed with fatal error
+1월 06, 2022 09:50:04.195 [2164:8528:0106/095004.195:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 06, 2022 09:50:04.196 [2164:8528:0106/095004.196:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 06, 2022 10:04:18.374 [2164:8528:0106/100418.374:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 06, 2022 10:04:18.375 [2164:8528:0106/100418.375:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 06, 2022 10:10:46.507 [2164:8528:0106/101046.507:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 06, 2022 10:10:46.507 [2164:8528:0106/101046.507:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 06, 2022 10:14:01.830 [2164:8528:0106/101401.830:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 06, 2022 10:14:01.830 [2164:8528:0106/101401.830:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 06, 2022 10:16:19.85 [1472:7916:0106/101619.085:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+1월 06, 2022 10:16:19.86 [1472:7916:0106/101619.085:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+1월 06, 2022 10:16:19.86 [1472:7916:0106/101619.085:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+1월 06, 2022 10:16:19.86 [1472:7916:0106/101619.086:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+1월 06, 2022 10:16:19.89 [1472:2540:0106/101619.089:ERROR:device_event_log_impl.cc(214)] [10:16:19.090] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+1월 06, 2022 10:43:00.733 [1472:2540:0106/104300.733:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 06, 2022 10:43:00.733 [1472:2540:0106/104300.733:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 06, 2022 10:43:09.255 [1472:2540:0106/104309.255:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 06, 2022 10:43:09.256 [1472:2540:0106/104309.256:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 06, 2022 11:12:23.496 [1472:2540:0106/111223.496:ERROR:interface_endpoint_client.cc(658)] Message 0 rejected by interface blink.mojom.WidgetHost
+1월 06, 2022 11:13:03.183 [1472:9736:0106/111303.182:ERROR:database.cc(1773)] History SQLite error: code 1555 errno 0: UNIQUE constraint failed: context_annotations.visit_id sql: INSERT INTO context_annotations( visit_id,context_annotation_flags,duration_since_last_visit,page_end_reason,total_foreground_duration )VALUES(?,?,?,?,?)
+1월 06, 2022 11:13:03.183 [1472:9736:0106/111303.183:ERROR:database.cc(1773)] History SQLite error: code 1555 errno 0: UNIQUE constraint failed: context_annotations.visit_id sql: INSERT INTO context_annotations( visit_id,context_annotation_flags,duration_since_last_visit,page_end_reason,total_foreground_duration )VALUES(?,?,?,?,?)
+1월 06, 2022 14:39:17.682 [1472:2540:0106/143917.682:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 06, 2022 14:39:17.683 [1472:2540:0106/143917.682:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 06, 2022 14:50:50.334 [1472:6068:0106/145050.334:ERROR:database.cc(1773)] History SQLite error: code 1555 errno 0: UNIQUE constraint failed: context_annotations.visit_id sql: INSERT INTO context_annotations( visit_id,context_annotation_flags,duration_since_last_visit,page_end_reason,total_foreground_duration )VALUES(?,?,?,?,?)
+1월 06, 2022 14:50:50.498 [1472:1672:0106/145050.498:ERROR:database.cc(1773)] History SQLite error: code 1555 errno 0: UNIQUE constraint failed: context_annotations.visit_id sql: INSERT INTO context_annotations( visit_id,context_annotation_flags,duration_since_last_visit,page_end_reason,total_foreground_duration )VALUES(?,?,?,?,?)
+1월 06, 2022 15:11:56.71 [1472:2540:0106/151156.070:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 06, 2022 15:11:56.71 [1472:2540:0106/151156.071:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 06, 2022 15:16:40.968 [1472:2540:0106/151640.968:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 06, 2022 15:16:40.968 [1472:2540:0106/151640.968:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 06, 2022 15:17:55.501 [1472:2540:0106/151755.501:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 06, 2022 15:17:55.501 [1472:2540:0106/151755.501:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 06, 2022 15:18:39.208 [1472:2540:0106/151839.208:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 06, 2022 15:18:39.209 [1472:2540:0106/151839.209:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 06, 2022 15:29:28.33 [1472:2540:0106/152928.033:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 06, 2022 15:29:28.34 [1472:2540:0106/152928.034:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 06, 2022 15:35:19.266 [1472:2540:0106/153519.265:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 06, 2022 15:35:19.267 [1472:2540:0106/153519.267:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 06, 2022 15:35:31.307 [1472:2540:0106/153531.306:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 06, 2022 15:35:31.308 [1472:2540:0106/153531.308:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 06, 2022 15:35:49.336 [1472:2540:0106/153549.336:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 06, 2022 15:35:49.337 [1472:2540:0106/153549.337:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+
+1월 07, 2022 09:17:46.179 NEW SESSION
+1월 07, 2022 09:17:46.179 [1140:8356:0107/091746.177:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+1월 07, 2022 09:17:46.179 [1140:8356:0107/091746.177:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+1월 07, 2022 09:17:46.179 [1140:8356:0107/091746.177:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+1월 07, 2022 09:17:46.180 [1140:8356:0107/091746.178:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+1월 07, 2022 09:17:46.181 [1140:4860:0107/091746.181:ERROR:device_event_log_impl.cc(214)] [09:17:46.181] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+1월 07, 2022 10:07:54.951 [1140:4860:0107/100754.951:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 07, 2022 10:07:54.952 [1140:4860:0107/100754.952:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 07, 2022 10:15:35.885 [1140:4860:0107/101535.885:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 07, 2022 10:15:35.885 [1140:4860:0107/101535.885:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 07, 2022 10:16:22.111 [1140:4860:0107/101622.111:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 07, 2022 10:16:22.113 [1140:4860:0107/101622.113:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 07, 2022 10:17:09.978 [1140:4860:0107/101709.977:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 07, 2022 10:17:09.979 [1140:4860:0107/101709.978:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 07, 2022 10:53:25.301 [1140:4860:0107/105325.301:ERROR:CONSOLE(1)] "Cannot find context with specified id", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 07, 2022 11:08:43.03 [1140:4860:0107/110843.002:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 07, 2022 11:08:43.04 [1140:4860:0107/110843.004:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 07, 2022 11:18:42.726 [1140:4860:0107/111842.726:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 07, 2022 11:18:42.727 [1140:4860:0107/111842.726:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 07, 2022 11:18:42.727 [1140:4860:0107/111842.726:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 07, 2022 11:18:42.727 [1140:4860:0107/111842.726:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 07, 2022 11:18:42.727 [1140:4860:0107/111842.726:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 07, 2022 11:18:42.727 [1140:4860:0107/111842.727:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 07, 2022 11:18:42.727 [1140:4860:0107/111842.727:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 07, 2022 11:18:42.727 [1140:4860:0107/111842.727:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 07, 2022 11:18:42.727 [1140:4860:0107/111842.727:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 07, 2022 11:18:42.727 [1140:4860:0107/111842.727:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 07, 2022 12:09:11.329 [1140:4860:0107/120911.328:ERROR:interface_endpoint_client.cc(658)] Message 1 rejected by interface blink.mojom.WidgetHost
+1월 07, 2022 12:11:01.845 [1140:4860:0107/121101.845:ERROR:device_event_log_impl.cc(214)] [12:11:01.845] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+1월 07, 2022 12:44:18.601 [1140:4860:0107/124418.601:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 07, 2022 12:44:18.601 [1140:4860:0107/124418.601:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 07, 2022 14:38:49.130 [1140:4860:0107/143849.129:ERROR:sharing_service.cc(252)] Device un-registration failed with fatal error
+1월 07, 2022 15:08:09.370 [1140:7672:0107/150809.370:ERROR:database.cc(1773)] History SQLite error: code 1555 errno 0: UNIQUE constraint failed: context_annotations.visit_id sql: INSERT INTO context_annotations( visit_id,context_annotation_flags,duration_since_last_visit,page_end_reason,total_foreground_duration )VALUES(?,?,?,?,?)
+1월 07, 2022 15:08:09.932 [1140:7672:0107/150809.932:ERROR:database.cc(1773)] History SQLite error: code 1555 errno 0: UNIQUE constraint failed: context_annotations.visit_id sql: INSERT INTO context_annotations( visit_id,context_annotation_flags,duration_since_last_visit,page_end_reason,total_foreground_duration )VALUES(?,?,?,?,?)
+1월 07, 2022 15:37:26.713 [1140:2560:0107/153726.713:ERROR:database.cc(1773)] History SQLite error: code 1555 errno 0: UNIQUE constraint failed: context_annotations.visit_id sql: INSERT INTO context_annotations( visit_id,context_annotation_flags,duration_since_last_visit,page_end_reason,total_foreground_duration )VALUES(?,?,?,?,?)
+1월 07, 2022 16:50:27.51 [1140:4860:0107/165027.051:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 07, 2022 16:50:27.52 [1140:4860:0107/165027.051:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'sourceURL')", source:  (0)
+
+1월 11, 2022 09:12:38.987 NEW SESSION
+1월 11, 2022 09:12:38.987 [2192:5464:0111/091238.986:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+1월 11, 2022 09:12:38.988 [2192:5464:0111/091238.986:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+1월 11, 2022 09:12:38.988 [2192:5464:0111/091238.986:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+1월 11, 2022 09:12:38.988 [2192:5464:0111/091238.986:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+1월 11, 2022 09:12:38.995 [2192:4148:0111/091238.995:ERROR:device_event_log_impl.cc(214)] [09:12:38.996] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+1월 11, 2022 09:35:09.623 [2192:4148:0111/093509.623:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 11, 2022 09:35:09.623 [2192:4148:0111/093509.623:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 11, 2022 09:35:48.229 [2192:4148:0111/093548.229:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+1월 11, 2022 09:35:48.230 [2192:4148:0111/093548.230:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 11, 2022 10:55:12.175 [7752:5228:0111/105512.174:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+1월 11, 2022 10:55:12.175 [7752:5228:0111/105512.174:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+1월 11, 2022 10:55:12.175 [7752:5228:0111/105512.174:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+1월 11, 2022 10:55:12.175 [7752:5228:0111/105512.175:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+1월 11, 2022 10:55:12.179 [7752:5260:0111/105512.179:ERROR:device_event_log_impl.cc(214)] [10:55:12.179] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+1월 11, 2022 15:53:44.663 [7752:5260:0111/155344.663:ERROR:CONSOLE(1)] "Cannot find context with specified id", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+
+1월 12, 2022 17:33:19.972 NEW SESSION
+1월 12, 2022 17:33:19.972 [5848:7768:0112/173319.970:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+1월 12, 2022 17:33:19.972 [5848:7768:0112/173319.970:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+1월 12, 2022 17:33:19.972 [5848:7768:0112/173319.970:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+1월 12, 2022 17:33:19.972 [5848:7768:0112/173319.971:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+1월 12, 2022 17:33:19.975 [5848:2784:0112/173319.975:ERROR:device_event_log_impl.cc(214)] [17:33:19.975] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+1월 14, 2022 14:22:49.502 NEW SESSION
+1월 14, 2022 14:22:49.502 [5868:3088:0114/142249.500:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+1월 14, 2022 14:22:49.502 [5868:3088:0114/142249.500:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+1월 14, 2022 14:22:49.502 [5868:3088:0114/142249.500:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+1월 14, 2022 14:22:49.503 [5868:3088:0114/142249.501:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+1월 14, 2022 14:22:49.504 [5868:3848:0114/142249.504:ERROR:device_event_log_impl.cc(214)] [14:22:49.504] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.

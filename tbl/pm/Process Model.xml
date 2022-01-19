@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<ProcessModel class="oracle.dbtools.crest.model.design.process.ProcessModel" name="Process Model" id="DA03A5C2-5B5F-D733-42C8-D1F582E42D9D">
+<createdBy>ITSC</createdBy>
+<createdTime>2021-11-29 10:33:06 UTC</createdTime>
+<ownerDesignName>tbl</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</ProcessModel>

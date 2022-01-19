@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper 
+PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+
+<mapper namespace="com.koreait.final1.repository.BoardMapper">
+
+	<select id="selectList" resultType="Board">
+		SELECT IDX, WRITER, TITLE, CONTENT, CREATED
+		  FROM BOARD
+	</select>
+	
+	<select id="selectBoardCount" resultType="Long">
+		SELECT COUNT(IDX)
+		  FROM BOARD
+	</select>
+
+	<select id="selectByIdx" parameterType="Long" resultType="Board">
+		SELECT 
+		  FROM
+		 WHERE IDX = #{idx}
+	</select>
+	
+	<insert id="insertBoard" parameterType="Board">
+		INSERT INTO BOARD
+		VALUES (BOARD_SEQ.NEXTVAL, #{writer}, #{title}, #{content}, SYSDATE)
+	</insert>
+	
+	<update id="updateBoard" parameterType="Board">
+		UPDATE BOARD
+	</update>
+
+	<delete id="deleteBoard" parameterType="Long">
+		DELETE BOARD
+	</delete>
+	
+</mapper>

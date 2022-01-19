@@ -1,0 +1,115 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="C602D49B-59F9-B63A-403A-CD5EEC30D20E" name="user_tbl">
+<createdBy>ITSC</createdBy>
+<createdTime>2021-11-29 10:36:46 UTC</createdTime>
+<ownerDesignName>tbl</ownerDesignName>
+<ordsAlias>table_4</ordsAlias>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="user_no" id="62D1E48A-B44C-41F4-CD60-6E3DD594EA6F">
+<createdBy>ITSC</createdBy>
+<createdTime>2021-11-29 10:42:19 UTC</createdTime>
+<ownerDesignName>tbl</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>30</dataTypePrecision>
+<ownDataTypeParameters>,30,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="user_name" id="F16FB0F5-7520-F11D-6271-0A7CADA2D549">
+<createdBy>ITSC</createdBy>
+<createdTime>2021-11-29 10:42:19 UTC</createdTime>
+<ownerDesignName>tbl</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>30 BYTE</dataTypeSize>
+<ownDataTypeParameters>30 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="user_id" id="B46E5363-14F6-FA6D-B205-91BE9A635021">
+<createdBy>ITSC</createdBy>
+<createdTime>2021-11-29 10:42:19 UTC</createdTime>
+<ownerDesignName>tbl</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>30 BYTE</dataTypeSize>
+<ownDataTypeParameters>30 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="user_pw" id="FE4D5487-5357-1254-EAA5-D37B2F28B5EC">
+<createdBy>ITSC</createdBy>
+<createdTime>2021-11-29 10:42:19 UTC</createdTime>
+<ownerDesignName>tbl</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>30 BYTE</dataTypeSize>
+<ownDataTypeParameters>30 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="user_phoneNumber" id="5C96123B-39BD-F2A2-A88A-238A74651B36">
+<createdBy>ITSC</createdBy>
+<createdTime>2021-11-29 10:42:19 UTC</createdTime>
+<ownerDesignName>tbl</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>15 BYTE</dataTypeSize>
+<ownDataTypeParameters>15 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="user_nickName" id="5820AEFB-91CE-FCCB-5095-6C577C84C7BE">
+<createdBy>ITSC</createdBy>
+<createdTime>2021-11-29 10:42:19 UTC</createdTime>
+<ownerDesignName>tbl</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>30</dataTypeSize>
+<ownDataTypeParameters>30,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="user_email" id="35C2AF1F-4C82-5930-623D-40C6D9AB0362">
+<createdBy>ITSC</createdBy>
+<createdTime>2021-11-29 10:42:19 UTC</createdTime>
+<ownerDesignName>tbl</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>100</dataTypeSize>
+<ownDataTypeParameters>100,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="user_type" id="D100D9BA-36FE-F25A-7DB7-1D24D45D8AD6">
+<createdBy>ITSC</createdBy>
+<createdTime>2021-11-29 10:42:19 UTC</createdTime>
+<ownerDesignName>tbl</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>1</dataTypePrecision>
+<ownDataTypeParameters>,1,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="8C23E30B-F162-7D3D-D3D6-E5EE9A13F35A" name="user_tbl_PK">
+<createdBy>ITSC</createdBy>
+<createdTime>2021-11-29 10:42:19 UTC</createdTime>
+<ownerDesignName>tbl</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="62D1E48A-B44C-41F4-CD60-6E3DD594EA6F"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

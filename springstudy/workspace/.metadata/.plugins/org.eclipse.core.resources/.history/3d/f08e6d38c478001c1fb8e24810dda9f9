@@ -1,0 +1,17 @@
+package com.koreait.final1.config;
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+
+import com.koreait.ex15.service.BoardService;
+import com.koreait.ex15.service.BoardServiceImpl;
+
+@Configuration
+public class BoardConfig {
+
+	@Bean
+	public BoardService boardService() throws Exception {
+		return new BoardServiceImpl(sqlSession());
+	}
+	
+}

@@ -1,0 +1,94 @@
+
+12월 07, 2021 09:04:27.705 NEW SESSION
+12월 07, 2021 09:04:27.705 [7564:5748:1207/090427.703:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 07, 2021 09:04:27.705 [7564:5748:1207/090427.703:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 07, 2021 09:04:27.705 [7564:5748:1207/090427.703:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 07, 2021 09:04:27.705 [7564:5748:1207/090427.704:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 07, 2021 09:04:27.712 [7564:5116:1207/090427.712:ERROR:device_event_log_impl.cc(214)] [09:04:27.712] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12월 07, 2021 09:04:42.01 [8424:2432:1207/090442.000:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 07, 2021 09:04:42.01 [8424:2432:1207/090442.000:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 07, 2021 09:04:42.01 [8424:2432:1207/090442.000:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 07, 2021 09:04:42.01 [8424:2432:1207/090442.001:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 07, 2021 09:04:42.07 [8424:1984:1207/090442.007:ERROR:device_event_log_impl.cc(214)] [09:04:42.007] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12월 07, 2021 09:09:02.312 [1744:2596:1207/090902.312:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 07, 2021 09:09:02.313 [1744:2596:1207/090902.312:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 07, 2021 09:09:02.313 [1744:2596:1207/090902.312:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 07, 2021 09:09:02.313 [1744:2596:1207/090902.313:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 07, 2021 09:09:02.318 [1744:5068:1207/090902.318:ERROR:device_event_log_impl.cc(214)] [09:09:02.318] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12월 07, 2021 09:37:28.409 [5816:3324:1207/093728.409:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 07, 2021 09:37:28.409 [5816:3324:1207/093728.409:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 07, 2021 09:37:28.409 [5816:3324:1207/093728.409:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 07, 2021 09:37:28.410 [5816:3324:1207/093728.410:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 07, 2021 09:37:28.416 [5816:4828:1207/093728.416:ERROR:device_event_log_impl.cc(214)] [09:37:28.416] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12월 07, 2021 10:20:29.364 [4028:4776:1207/102029.363:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 07, 2021 10:20:29.364 [4028:4776:1207/102029.363:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 07, 2021 10:20:29.364 [4028:4776:1207/102029.363:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 07, 2021 10:20:29.364 [4028:4776:1207/102029.364:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 07, 2021 10:20:29.370 [4028:764:1207/102029.370:ERROR:device_event_log_impl.cc(214)] [10:20:29.370] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12월 07, 2021 10:47:56.548 [3224:624:1207/104756.548:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 07, 2021 10:47:56.548 [3224:624:1207/104756.548:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 07, 2021 10:47:56.548 [3224:624:1207/104756.548:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 07, 2021 10:47:56.549 [3224:624:1207/104756.549:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 07, 2021 10:47:56.554 [3224:1880:1207/104756.554:ERROR:device_event_log_impl.cc(214)] [10:47:56.555] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+12월 08, 2021 09:15:45.383 NEW SESSION
+12월 08, 2021 09:15:45.383 [2236:6064:1208/091545.381:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 08, 2021 09:15:45.384 [2236:6064:1208/091545.381:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 08, 2021 09:15:45.384 [2236:6064:1208/091545.381:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 08, 2021 09:15:45.384 [2236:6064:1208/091545.382:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 08, 2021 09:15:45.390 [2236:8092:1208/091545.390:ERROR:device_event_log_impl.cc(214)] [09:15:45.382] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12월 08, 2021 09:45:48.679 [2620:5436:1208/094548.679:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 08, 2021 09:45:48.679 [2620:5436:1208/094548.679:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 08, 2021 09:45:48.679 [2620:5436:1208/094548.679:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 08, 2021 09:45:48.679 [2620:5436:1208/094548.679:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 08, 2021 09:45:48.686 [2620:1952:1208/094548.686:ERROR:device_event_log_impl.cc(214)] [09:45:48.685] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12월 08, 2021 09:46:06.143 [3244:6380:1208/094606.143:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 08, 2021 09:46:06.143 [3244:6380:1208/094606.143:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 08, 2021 09:46:06.143 [3244:6380:1208/094606.143:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 08, 2021 09:46:06.145 [3244:6380:1208/094606.145:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 08, 2021 09:46:06.149 [3244:3620:1208/094606.149:ERROR:device_event_log_impl.cc(214)] [09:46:06.149] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12월 08, 2021 09:50:54.426 [5856:2600:1208/095054.426:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 08, 2021 09:50:54.427 [5856:2600:1208/095054.426:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 08, 2021 09:50:54.427 [5856:2600:1208/095054.426:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 08, 2021 09:50:54.427 [5856:2600:1208/095054.427:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 08, 2021 09:50:54.433 [5856:4844:1208/095054.433:ERROR:device_event_log_impl.cc(214)] [09:50:54.433] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12월 08, 2021 10:15:16.456 [2476:836:1208/101516.456:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 08, 2021 10:15:16.456 [2476:836:1208/101516.456:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 08, 2021 10:15:16.456 [2476:836:1208/101516.456:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 08, 2021 10:15:16.457 [2476:836:1208/101516.457:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 08, 2021 10:15:16.462 [2476:7320:1208/101516.462:ERROR:device_event_log_impl.cc(214)] [10:15:16.457] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+12월 09, 2021 09:16:14.968 NEW SESSION
+12월 09, 2021 09:16:14.968 [1172:7188:1209/091614.966:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 09, 2021 09:16:14.968 [1172:7188:1209/091614.966:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 09, 2021 09:16:14.968 [1172:7188:1209/091614.966:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 09, 2021 09:16:14.968 [1172:7188:1209/091614.967:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 09, 2021 09:16:14.974 [1172:8392:1209/091614.974:ERROR:device_event_log_impl.cc(214)] [09:16:14.974] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12월 09, 2021 09:17:40.199 [4168:1780:1209/091740.199:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 09, 2021 09:17:40.200 [4168:1780:1209/091740.199:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 09, 2021 09:17:40.200 [4168:1780:1209/091740.199:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 09, 2021 09:17:40.200 [4168:1780:1209/091740.200:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 09, 2021 09:17:40.206 [4168:5040:1209/091740.205:ERROR:device_event_log_impl.cc(214)] [09:17:40.206] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12월 09, 2021 09:53:05.959 [3544:4796:1209/095305.959:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 09, 2021 09:53:05.959 [3544:4796:1209/095305.959:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 09, 2021 09:53:05.960 [3544:4796:1209/095305.959:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 09, 2021 09:53:05.960 [3544:4796:1209/095305.960:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 09, 2021 09:53:05.967 [3544:1192:1209/095305.967:ERROR:device_event_log_impl.cc(214)] [09:53:05.967] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12월 09, 2021 15:48:06.933 [3544:1192:1209/154806.933:ERROR:interface_endpoint_client.cc(658)] Message 1 rejected by interface blink.mojom.WidgetHost
+12월 09, 2021 15:59:48.165 [3544:1192:1209/155948.164:ERROR:interface_endpoint_client.cc(658)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+12월 14, 2021 09:19:24.224 NEW SESSION
+12월 14, 2021 09:19:24.224 [4692:6244:1214/091924.222:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 14, 2021 09:19:24.224 [4692:6244:1214/091924.222:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 14, 2021 09:19:24.225 [4692:6244:1214/091924.222:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 14, 2021 09:19:24.225 [4692:6244:1214/091924.223:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 14, 2021 09:19:24.232 [4692:6708:1214/091924.232:ERROR:device_event_log_impl.cc(214)] [09:19:24.231] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12월 14, 2021 09:19:32.432 [4692:328:1214/091932.432:ERROR:database.cc(1773)] Passwords SQLite error: code 2067 errno 0: UNIQUE constraint failed: logins.origin_url, logins.username_element, logins.username_value, logins.password_element, logins.signon_realm sql: INSERT INTO logins (origin_url, action_url, username_element, username_value, password_element, password_value, submit_element, signon_realm, date_created, blacklisted_by_user, scheme, password_type, times_used, form_data, display_name, icon_url, federation_url, skip_zero_click, generation_upload_status, possible_username_pairs, id, date_last_used, moving_blocked_for, date_password_modified) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+12월 14, 2021 09:31:27.574 [4692:5936:1214/093127.574:ERROR:database.cc(1773)] Passwords SQLite error: code 2067 errno 0: UNIQUE constraint failed: logins.origin_url, logins.username_element, logins.username_value, logins.password_element, logins.signon_realm sql: INSERT INTO logins (origin_url, action_url, username_element, username_value, password_element, password_value, submit_element, signon_realm, date_created, blacklisted_by_user, scheme, password_type, times_used, form_data, display_name, icon_url, federation_url, skip_zero_click, generation_upload_status, possible_username_pairs, id, date_last_used, moving_blocked_for, date_password_modified) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+
+1월 19, 2022 10:34:18.254 NEW SESSION
+1월 19, 2022 10:34:18.254 [520:4784:0119/103418.252:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+1월 19, 2022 10:34:18.255 [520:4784:0119/103418.252:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+1월 19, 2022 10:34:18.255 [520:4784:0119/103418.252:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+1월 19, 2022 10:34:18.255 [520:4784:0119/103418.253:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+1월 19, 2022 10:34:18.257 [520:9324:0119/103418.257:ERROR:device_event_log_impl.cc(214)] [10:34:18.257] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.

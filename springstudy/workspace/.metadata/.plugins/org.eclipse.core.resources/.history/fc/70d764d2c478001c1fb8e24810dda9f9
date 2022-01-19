@@ -1,0 +1,51 @@
+package com.koreait.final1.service;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.koreait.final1.domain.Board;
+import com.koreait.final1.repository.BoardMapper;
+
+public class BoardServiceImpl implements BoardService {
+
+	@Autowired
+	private BoardMapper boardMapper;
+	
+	@Override
+	public List<Board> getBoards() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Long getBoardCount() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Board getBoard(Long idx) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public int addBoard(Board board) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public int modifyBoard(Board board) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public int removeBoard(Long idx) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

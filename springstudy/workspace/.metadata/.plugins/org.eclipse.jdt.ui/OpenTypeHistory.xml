@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=08_SPRING_JDBC/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.koreait.ex08.service{ContactService.java[ContactService" modifiers="513" timestamp="1638863869232"/>
+<typeInfo handle="=10_MYBATIS/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.koreait.ex10.service{NoticeService.java[NoticeService" modifiers="513" timestamp="1638947190148"/>
+<typeInfo handle="=12_GALLERY/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.koreait.ex12.service{GalleryService.java[GalleryService" modifiers="513" timestamp="1639100365241"/>
+<typeInfo handle="=13_MEMBER/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.koreait.ex13.service{MemberService.java[MemberService" modifiers="513" timestamp="1639441743500"/>
+<typeInfo handle="=14_SEARCH/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.koreait.ex14.service{EmployeeService.java[EmployeeService" modifiers="513" timestamp="1639532148154"/>
+<typeInfo handle="=Integration/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.koreait.integration.service{BookService.java[BookService" modifiers="513" timestamp="1639551270692"/>
+<typeInfo handle="=Integration/C:\/Users\/ITSC\/.m2\/repository\/org\/quartz-scheduler\/quartz\/2.3.0\/quartz-2.3.0.jar=/maven.pomderived=/true=/=/org.eclipse.jst.component.dependency=/\/WEB-INF\/lib=/=/maven.pomderived=/true=/=/org.eclipse.jst.component.archivename=/quartz-2.3.0.jar=/=/maven.groupId=/org.quartz-scheduler=/=/maven.artifactId=/quartz=/=/maven.version=/2.3.0=/=/maven.scope=/compile=/&lt;org.quartz(Job.class[Job" modifiers="1537" timestamp="1639294898264"/>
+<typeInfo handle="=IntegrationProgram/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.koreait.integration1.service{SearchService.java[SearchService" modifiers="513" timestamp="1639703494306"/>
+</typeInfoHistroy>
