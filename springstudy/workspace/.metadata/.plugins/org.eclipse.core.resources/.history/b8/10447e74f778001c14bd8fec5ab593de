@@ -34,14 +34,15 @@ public class BoardController {
 	}
 
 	@GetMapping(value="/board/addForm")
-	public String addForm(HttpServletRequest request, HttpServletResponse) {
+	public String addForm() {
 		return "/board/insert";
 	}
 
 	@PostMapping(value="/board/add")
 	public void add(Board board, HttpServletRequest request, HttpServletResponse response) {
-		int result = boardService.addBoard(board);
 		try {
+	
+			int result = boardService.addBoard(board);
 			response.setContentType("text/html; charset=UTF-8");
 			PrintWriter out = response.getWriter();
 			if (result > 0) {
@@ -64,17 +65,62 @@ public class BoardController {
 
 	@GetMapping(value="/board/detail")
 	public String detail(Long idx, Model model) {
-		return null;
+		model.addAttribute("board", boardService.getBoard(idx));
+		return "/board/detail";
 	}
 
 	@GetMapping(value="/board/modify")
 	public void modify(Board board, HttpServletRequest request, HttpServletResponse response) {
-		
+		try {
+
+			
+			int result = boardService.modifyBoard(board);
+			
+			response.setContentType("text/html; charset=UTF-8");
+			PrintWriter out = response.getWriter();
+			if (result > 0) {
+				out.append("<script>");
+				out.append("alert('수정 성공');");
+//				out.append("location.href='" + request.getContextPath() + "/board/list';");
+				out.append("location.href='" + request.getContextPath() + "/board/detail?idx="+board.getIdx()+"';");
+				out.append("</script>");
+				out.close();
+			} else {
+				out.append("<script>");
+				out.append("alert('수정 실패');");
+				out.append("history.back();");
+				out.append("</script>");
+				out.close();
+			}
+		} catch (NullPointerException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
 	}
 
 	@GetMapping(value="/board/remove")
 	public void remove(Long idx, HttpServletRequest request, HttpServletResponse response) {
-		
+		int result = boardService.removeBoard(idx);
+		try {
+			response.setContentType("text/html; charset=UTF-8");
+			PrintWriter out = response.getWriter();
+			if (result > 0) {
+				out.append("<script>");
+				out.append("alert('삭제 성공');");
+				out.append("location.href='" + request.getContextPath() + "/board/list';");
+				out.append("</script>");
+				out.close();
+			} else {
+				out.append("<script>");
+				out.append("alert('삭제 실패');");
+				out.append("history.back();");
+				out.append("</script>");
+				out.close();
+			}
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
 	}
 
 }
